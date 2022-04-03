@@ -1,0 +1,3 @@
+/home/igor/Área de Trabalho/Conversor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/igor/Área de Trabalho/Conversor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igor/Área de Trabalho/Conversor/cmake-build-debug/CMakeFiles/Conversor.dir
